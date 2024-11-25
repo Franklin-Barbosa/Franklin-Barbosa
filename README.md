@@ -11,10 +11,10 @@
 <div>
   <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5 Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="css3 Badge" target="_blank">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23F2F5A9?style=for-the-badge&logo=JavaScript&logoColor=yellow" alt="javascript Badge" target="_blank">&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-%23A9E2F3?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="typescript Badge" target="_blank">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript Badge" target="_blank">&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/Vite-%23864CBA?style=for-the-badge&logo=Vite&logoColor=white" alt="vite Badge" target="_blank">&nbsp;
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white" alt="react Badge" target="_blank">&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20Css-%2358D3F7?style=for-the-badge&logo=tailwind%20css&logoColor=blue" alt="tailwind Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&logoColor=white" alt="react native" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=EXPO" alt="expo go Badge" target="_blank">&nbsp;
@@ -38,20 +38,3 @@
   <a href="https://www.x.com/franklinolliver/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo-square&logo=X" target="_blank"></a>
 </div>
 
-
-
-
-<!--
-**Franklin-Barbosa/Franklin-Barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
