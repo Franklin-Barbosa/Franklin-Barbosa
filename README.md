@@ -22,12 +22,9 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/postgresql-%23045FB4?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql Badge" target="_blank">&nbsp;
-  <img src="https://img.shields.io/badge/MySql-%23399ABA?style=for-the-badge&logo=MySql&logoColor=white" alt="mysql Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/SQLITE-%2307405E?style=for-the-badge&logo=SQLITE&logoColor=white" alt="sqlite Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/canva-%2300BBC6?style=for-the-badge&logo=canva&logoColor=white" alt="canva Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/figma-%23FF7237?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge" target="_blank">&nbsp;
-  <img src="https://img.shields.io/badge/flutter-%2357C1F0?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter Badge" target="_blank">&nbsp;
-  <img src="https://img.shields.io/badge/dart-%23276C96?style=for-the-badge&logo=dart&logoColor=white" alt="dart Badge" target="_blank">&nbsp;
 </div>
 
 ## Socials
