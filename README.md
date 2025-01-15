@@ -1,8 +1,9 @@
 ## Hi, I'm Franklin B. 👋
 
+- 🖥️ Studying capacity in embedded systems (EmbarcaTech) at IFRN-ZL
 - 🖥️ Graduating of Systems analysis and software development at IFRN-Cnat
 - 🎓 internet computer technician at IMD/UFRN
-- 🌱 Learning about web development, mobile and distributed systems
+- 🌱 Learning about web development, mobile distributed systems and embedded systems
 - 💡 I'm interested about programming web, mobile and books
 - 🤝 I like to collaborate in new projects
 - ⚡ Fun fact: I love tech, and I'm constantly looking to learn more about new languages and technologies.
