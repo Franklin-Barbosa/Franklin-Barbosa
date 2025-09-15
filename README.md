@@ -1,10 +1,9 @@
-## Hi, I'm Franklin B. 👋
+## Olá, Sou Franklin 👋
 
-- 🖥️ Graduating of Systems analysis and software development by the IFRN-Cnat
-- 🎓 Internet computer technician by the IMD/UFRN
-- 🌱 Learning about web development, mobile distributed systems and embedded systems
-- 💡 I'm interested about programming web, mobile and books
-- ⚡ Fun fact: I love tech, and I'm constantly looking to learn more about new languages and technologies.
+- 🖥️ Graduando em Análise de Sistemas e Desenvolvimento de Software pelo IFRN-Cnat
+- 🎓 Técnico em Informática para Internet pelo IMD/UFRN
+- 🌱 Aprendizado sobre desenvolvimento web e mobile
+- 💡 Tenho interesse em programação web, mobile e livros
 
 ## Tech Stack
 <div>
@@ -29,8 +28,6 @@
 ## Socials
 <div> 
   <a href="mailto:franklinb.oliveira2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/franklinolliver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franklin-barbosa-67b507230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.x.com/franklinolliver/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo-square&logo=X" target="_blank"></a>
 </div>
 
