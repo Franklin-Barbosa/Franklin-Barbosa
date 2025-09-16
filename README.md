@@ -2,8 +2,8 @@
 
 - 🖥️ Graduando em Análise de Sistemas e Desenvolvimento de Software pelo IFRN-Cnat
 - 🎓 Técnico em Informática para Internet pelo IMD/UFRN
-- 🌱 Aprendizado sobre desenvolvimento web e mobile
-- 💡 Tenho interesse em programação web, mobile e livros
+- 🌱 Estudando sobre desenvolvimento web e mobile
+- 💡 Tenho interesse em programação web, mobile, livros e pets
 
 ## Tecnologias e Ferramentas
 <div>
