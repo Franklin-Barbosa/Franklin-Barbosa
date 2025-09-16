@@ -5,7 +5,7 @@
 - 🌱 Aprendizado sobre desenvolvimento web e mobile
 - 💡 Tenho interesse em programação web, mobile e livros
 
-## Tech Stack
+## Tecnologias e Ferramentas
 <div>
   <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5 Badge" target="_blank">&nbsp;
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="css3 Badge" target="_blank">&nbsp;
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/figma-%23FF7237?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge" target="_blank">&nbsp;
 </div>
 
-## Socials
+## Contato
 <div> 
   <a href="mailto:franklinb.oliveira2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franklin-barbosa-67b507230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
